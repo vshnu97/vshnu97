@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Mbile application developement in flutter**
+- 🔭 I’m currently working on **Mobile application developement in flutter**
 
-- 👯 I’m looking to collaborate on **Flutter **
+- 👯 I’m looking to collaborate on **Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
