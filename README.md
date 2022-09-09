@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishnu K</h1>
-<h3 align="center">A passionate self taught flutter developer</h3>
+<h3 align="center">A passionate self-taught flutter developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vshnu97" alt="vshnu97" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vshnu97.github.io/Personal-Website/](https://vshnu97.github.io/Personal-Website/)
 
-- 📫 How to reach me **vsihnuky16@gamil.com**
+- 📫 How to reach me **vsihnuky16@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
